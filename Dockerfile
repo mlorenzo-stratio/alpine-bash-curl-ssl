@@ -7,8 +7,8 @@
 
 FROM alpine:3.16.2
 
-LABEL com.frapsoft.maintainer="Maik Ellerbrock" \
-      com.frapsoft.version="0.3.0"
+LABEL com.stratio.maintainer="Marcos Lorenzo" \
+      com.stratio.version="0.1.0"
 
 # Optional Configuration Parameter
 ARG SERVICE_USER
